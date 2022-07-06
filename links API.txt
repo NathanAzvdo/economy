@@ -1,0 +1,2 @@
+https://dadosabertos.bcb.gov.br/dataset/11-taxa-de-juros---selic
+https://api.bcb.gov.br/dados/serie/bcdata.sgs.11/dados?formato=json
